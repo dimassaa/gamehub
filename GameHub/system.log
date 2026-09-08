@@ -1,0 +1,84 @@
+[07.12.2025 18:25:28] [INFO] Запуск системы GameHub
+[07.12.2025 18:30:24] [INFO] Users saved to users.dat, count: 1
+[07.12.2025 18:31:15] [INFO] Products loaded from products.dat, count: 2
+[07.12.2025 18:31:15] [INFO] Data loaded from discounts.dat, items: 1
+[07.12.2025 21:39:26] [INFO] Users loaded from users.dat, count: 1
+[07.12.2025 21:39:56] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:39:56] [INFO] New user registered: dimass
+[07.12.2025 21:39:56] [INFO] Admin notification: Новая заявка на регистрацию: dimass
+[07.12.2025 21:40:04] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:43:41] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:51:58] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:51:58] [INFO] User approved: dimass
+[07.12.2025 21:51:58] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:53:08] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:53:08] [INFO] User approved: dimass
+[07.12.2025 21:53:08] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:53:16] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:53:36] [INFO] User blocked: dimass
+[07.12.2025 21:53:36] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:53:42] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:53:51] [INFO] User unblocked: dimass
+[07.12.2025 21:53:51] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:55:17] [INFO] Запуск системы GameHub
+[07.12.2025 21:55:17] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:55:17] [INFO] Products loaded from products.dat, count: 2
+[07.12.2025 21:55:17] [INFO] Data loaded from discounts.dat, items: 1
+[07.12.2025 21:55:24] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:55:26] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 21:55:31] [INFO] Users saved to users.dat, count: 2
+[07.12.2025 21:55:31] [INFO] User approved: dimass
+[07.12.2025 22:05:32] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 22:05:46] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 22:08:43] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 22:08:45] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 22:19:44] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 22:26:34] [INFO] Products saved to products.dat, count: 3
+[07.12.2025 22:26:34] [INFO] Product added: Stardew Valley
+[07.12.2025 22:33:28] [INFO] Products saved to products.dat, count: 3
+[07.12.2025 22:33:28] [INFO] Keys added for product: Stardew Valley, count: 23
+[07.12.2025 22:41:51] [INFO] Data saved to discounts.dat, items: 2
+[07.12.2025 22:41:51] [INFO] Discount added: product 35.000000%
+[07.12.2025 22:41:51] [INFO] Discount added: product 35.000000%
+[07.12.2025 23:23:39] [INFO] Users loaded from users.dat, count: 2
+[07.12.2025 23:24:31] [INFO] Users saved to users.dat, count: 3
+[07.12.2025 23:24:31] [INFO] New user registered: test
+[07.12.2025 23:24:31] [INFO] Admin notification: Новая заявка на регистрацию: test
+[07.12.2025 23:24:37] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:29:25] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:35:31] [INFO] Data saved to sales.dat, items: 1
+[07.12.2025 23:35:31] [INFO] Products saved to products.dat, count: 3
+[07.12.2025 23:35:31] [INFO] Sale processed: ID 1, Customer: 2
+[07.12.2025 23:35:31] [INFO] Customer notification (ID: 2): Заказ завершён, ключ для 'Cyberpunk2077' отправлен на email
+[07.12.2025 23:39:17] [INFO] Data saved to wishlists.dat, items: 1
+[07.12.2025 23:39:17] [INFO] Product added to wishlist - Customer: 2, Product: 1
+[07.12.2025 23:42:51] [INFO] Generated 0 recommendations for customer: dimass
+[07.12.2025 23:47:02] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:49:49] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:49:49] [INFO] Users saved to users.dat, count: 3
+[07.12.2025 23:49:49] [INFO] Password recovered for user: test
+[07.12.2025 23:52:15] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:52:15] [INFO] Products loaded from products.dat, count: 3
+[07.12.2025 23:52:15] [INFO] Data loaded from sales.dat, items: 1
+[07.12.2025 23:53:57] [INFO] Запуск системы GameHub
+[07.12.2025 23:53:57] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:53:57] [INFO] Products loaded from products.dat, count: 3
+[07.12.2025 23:53:57] [INFO] Data loaded from sales.dat, items: 1
+[07.12.2025 23:53:57] [INFO] Data loaded from discounts.dat, items: 2
+[07.12.2025 23:53:57] [INFO] Data loaded from wishlists.dat, items: 1
+[07.12.2025 23:53:59] [INFO] Users loaded from users.dat, count: 3
+[07.12.2025 23:53:59] [INFO] Products loaded from products.dat, count: 3
+[07.12.2025 23:53:59] [INFO] Data loaded from sales.dat, items: 1
+[07.12.2025 23:55:50] [INFO] Users loaded from users.dat, count: 3
+[08.12.2025 00:03:56] [INFO] Users loaded from users.dat, count: 3
+[08.12.2025 00:21:49] [INFO] Users saved to users.dat, count: 4
+[08.12.2025 00:21:49] [INFO] New user registered: ццц
+[08.12.2025 00:21:49] [INFO] Admin notification: Новая заявка на регистрацию: ццц
+[08.12.2025 00:21:57] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:22:21] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:22:58] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:23:21] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:23:28] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:23:54] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:25:03] [INFO] Users loaded from users.dat, count: 4
+[08.12.2025 00:27:17] [INFO] Завершение работы системы GameHub

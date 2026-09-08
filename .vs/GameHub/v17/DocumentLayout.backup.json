@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\InputValidation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\GameHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\GameHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Wishlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Wishlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\RecommendationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\RecommendationSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Report.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Report.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Notification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Notification.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\InputValidation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\TableFormatter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\TableFormatter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Sale.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Sale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Store.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Store.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DFF77C4-9A39-4F07-9EE7-6FBBAC7979FD}|GameHub\\GameHub.vcxproj|solutionrelative:GameHub\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameHub.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\GameHub.cpp",
+              "RelativeDocumentMoniker": "GameHub\\GameHub.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\GameHub.cpp",
+              "RelativeToolTip": "GameHub\\GameHub.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAG0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T21:06:38.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exceptions.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Exceptions.h",
+              "RelativeDocumentMoniker": "GameHub\\Exceptions.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Exceptions.h",
+              "RelativeToolTip": "GameHub\\Exceptions.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:22:53.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Menu.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.cpp",
+              "RelativeToolTip": "GameHub\\Menu.cpp",
+              "ViewState": "AgIAAEQEAAAAAAAAAAAAAFgEAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:21:33.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.h",
+              "RelativeDocumentMoniker": "GameHub\\Menu.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Menu.h",
+              "RelativeToolTip": "GameHub\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:21:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wishlist.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Wishlist.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.cpp",
+              "RelativeToolTip": "GameHub\\Wishlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:20:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wishlist.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.h",
+              "RelativeDocumentMoniker": "GameHub\\Wishlist.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Wishlist.h",
+              "RelativeToolTip": "GameHub\\Wishlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:20:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecommendationSystem.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.cpp",
+              "RelativeDocumentMoniker": "GameHub\\RecommendationSystem.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.cpp",
+              "RelativeToolTip": "GameHub\\RecommendationSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:19:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecommendationSystem.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.h",
+              "RelativeDocumentMoniker": "GameHub\\RecommendationSystem.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\RecommendationSystem.h",
+              "RelativeToolTip": "GameHub\\RecommendationSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:19:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Report.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.cpp",
+              "RelativeToolTip": "GameHub\\Report.cpp",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:16:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Report.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.h",
+              "RelativeDocumentMoniker": "GameHub\\Report.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Report.h",
+              "RelativeToolTip": "GameHub\\Report.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:15:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Notification.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Notification.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.cpp",
+              "RelativeToolTip": "GameHub\\Notification.cpp",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:14:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notification.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.h",
+              "RelativeDocumentMoniker": "GameHub\\Notification.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Notification.h",
+              "RelativeToolTip": "GameHub\\Notification.h",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:14:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileManager.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.cpp",
+              "RelativeDocumentMoniker": "GameHub\\FileManager.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.cpp",
+              "RelativeToolTip": "GameHub\\FileManager.cpp",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:13:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.h",
+              "RelativeDocumentMoniker": "GameHub\\FileManager.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\FileManager.h",
+              "RelativeToolTip": "GameHub\\FileManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:11:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputValidation.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.cpp",
+              "RelativeDocumentMoniker": "GameHub\\InputValidation.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.cpp",
+              "RelativeToolTip": "GameHub\\InputValidation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:09:25.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputValidation.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.h",
+              "RelativeDocumentMoniker": "GameHub\\InputValidation.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\InputValidation.h",
+              "RelativeToolTip": "GameHub\\InputValidation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:08:54.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TableFormatter.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.cpp",
+              "RelativeDocumentMoniker": "GameHub\\TableFormatter.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.cpp",
+              "RelativeToolTip": "GameHub\\TableFormatter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8EAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:08:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TableFormatter.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.h",
+              "RelativeDocumentMoniker": "GameHub\\TableFormatter.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\TableFormatter.h",
+              "RelativeToolTip": "GameHub\\TableFormatter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:07:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Config.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Config.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.cpp",
+              "RelativeToolTip": "GameHub\\Config.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:07:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Config.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.h",
+              "RelativeDocumentMoniker": "GameHub\\Config.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Config.h",
+              "RelativeToolTip": "GameHub\\Config.h",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:07:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sale.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Sale.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.cpp",
+              "RelativeToolTip": "GameHub\\Sale.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:06:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sale.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.h",
+              "RelativeDocumentMoniker": "GameHub\\Sale.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Sale.h",
+              "RelativeToolTip": "GameHub\\Sale.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:06:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Product.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.cpp",
+              "RelativeToolTip": "GameHub\\Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:05:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.h",
+              "RelativeDocumentMoniker": "GameHub\\Product.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Product.h",
+              "RelativeToolTip": "GameHub\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:05:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.cpp",
+              "RelativeDocumentMoniker": "GameHub\\User.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.cpp",
+              "RelativeToolTip": "GameHub\\User.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T08:04:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.h",
+              "RelativeDocumentMoniker": "GameHub\\User.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\User.h",
+              "RelativeToolTip": "GameHub\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T08:04:18.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Store.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Store.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.cpp",
+              "RelativeToolTip": "GameHub\\Store.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T21:17:28.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Store.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.h",
+              "RelativeDocumentMoniker": "GameHub\\Store.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Store.h",
+              "RelativeToolTip": "GameHub\\Store.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-06T21:17:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Logger.cpp",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.cpp",
+              "RelativeDocumentMoniker": "GameHub\\Logger.cpp",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.cpp",
+              "RelativeToolTip": "GameHub\\Logger.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T21:16:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Logger.h",
+              "DocumentMoniker": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.h",
+              "RelativeDocumentMoniker": "GameHub\\Logger.h",
+              "ToolTip": "D:\\bsuir\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F 2\\GameHub \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\GameHub\\Logger.h",
+              "RelativeToolTip": "GameHub\\Logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-06T21:15:41.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
